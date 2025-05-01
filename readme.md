@@ -1,4 +1,4 @@
-# DF Mini Player for STM32
+# DF Player Mini for STM32
 
 This DF Player Mini library is based on this [repository](https://github.com/DFRobot/DFRobotDFPlayerMini) with the objective to adapt it for CMAKE project with STM32 VS Code extension
 
